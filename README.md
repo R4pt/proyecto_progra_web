@@ -27,7 +27,7 @@ Abra `frontend/index.html` en el navegador (o sirva con cualquier servidor está
 
 ## Notas
 - Columnas requeridas: IdConjuntoProducto, Fecha, PV, Codigo de Barra, ESTADO, Tipo de Resultado, Descripcion SKU.
-- Se calculan flags: `osa_flag` (OSA/ENCONTRADO) y `oos_flag` (OOS/FALTANTE).
+- Se calculan flags: `osa_flag` (OSA/ENCONTRADO) y `oos_flag` (OOS/FALTANTE)
 
 
 ## Docker (recomendado)
